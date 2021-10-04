@@ -13,7 +13,8 @@
 
 - ⚡ Fun fact **Anime Lover**
 
-
+### Spotify Playing 🎧
+[<img src="https://novatorem-one-bay.vercel.app/api/spotify" alt="Aritra's Spotify Playing" width="350" />](https://open.spotify.com/user/31lxrbokk27xwh33mcx6nizoytra)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
