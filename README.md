@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **Anime Lover**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aritras81007757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritras81007757" height="30" width="40" /></a>
@@ -37,8 +39,8 @@
   <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritrasen12345&show_icons=true&theme=dark&locale=en&layout=compact" alt="aritrasen12345" /></p>
+![Aritra's GitHub stats](https://github-readme-stats-lime-pi.vercel.app/api?username=aritrasen12345&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritrasen12345&show_icons=true&theme=dark&locale=en" alt="aritrasen12345" /></p>
+<p><img align="left" src="https://github-readme-stats-lime-pi.vercel.app/api/top-langs?username=aritrasen12345&show_icons=true&theme=dark&locale=en&layout=compact" alt="aritrasen12345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritrasen12345&theme=dark" alt="aritrasen12345" /></p>
