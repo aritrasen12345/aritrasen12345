@@ -45,3 +45,16 @@
 <p><img align="left" src="https://github-readme-stats-lime-pi.vercel.app/api/top-langs?username=aritrasen12345&show_icons=true&theme=dark&locale=en&layout=compact" alt="aritrasen12345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritrasen12345&theme=dark" alt="aritrasen12345" /></p>
+
+</a>
+<div>
+  <a href="hhttps://github.com/aritrasen12345/personality_quiz_app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=personality_quiz_app" />
+  </a>
+  <a href="https://github.com/aritrasen12345/J.A.R.V.I.S">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=J.A.R.V.I.S" />
+  </a>
+    <a href="https://github.com/aritrasen12345/Diabetes_Prediction">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=Diabetes_Prediction" />
+  </a>
+</div>
