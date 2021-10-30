@@ -39,10 +39,16 @@
 <div>
   <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
 </div>
+<div>
 
-![Aritra's GitHub stats](https://github-readme-stats-lime-pi.vercel.app/api?username=aritrasen12345&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritrasen12345&show_icons=true&theme=dark&locale=en&layout=compact" alt="aritrasen12345" /></p>
 
-<p><img align="left" src="https://github-readme-stats-lime-pi.vercel.app/api/top-langs?username=aritrasen12345&show_icons=true&theme=dark&locale=en&layout=compact" alt="aritrasen12345" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritrasen12345&show_icons=true&theme=dark&locale=en" alt="aritrasen12345" /></p>
+
+<!-- [![Aritra's GitHub stats](https://github-readme-stats-lime-pi.vercel.app/api?username=aritrasen12345&show_icons=true&theme=radical)
+![Aritra's GitHub stats](https://github-readme-stats-lime-pi.vercel.app/api?username=aritrasen12345&show_icons=true&theme=radical)](url) -->
+<!-- 
+<p><img align="left" src="https://github-readme-stats-lime-pi.vercel.app/api/top-langs?username=aritrasen12345&show_icons=true&theme=dark&locale=en&layout=compact" alt="aritrasen12345" /></p>](url) -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritrasen12345&theme=dark" alt="aritrasen12345" /></p>
 
