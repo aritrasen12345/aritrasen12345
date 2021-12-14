@@ -54,14 +54,14 @@
 
 </a>
 <div>
-  <a href="hhttps://github.com/aritrasen12345/personality_quiz_app">
+  <a href="https://github.com/aritrasen12345/ecommerce-webapp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=ecommerce-webapp" />
+  </a>
+  <a href="https://github.com/aritrasen12345/personality_quiz_app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=personality_quiz_app" />
   </a>
-  <a href="https://github.com/aritrasen12345/J.A.R.V.I.S">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=J.A.R.V.I.S" />
-  </a>
-    <a href="https://github.com/aritrasen12345/Diabetes_Prediction">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=Diabetes_Prediction" />
+  <a href="https://github.com/aritrasen12345/aritrasen12345-portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=aritrasen12345-portfolio" />
   </a>
 </div>
 
