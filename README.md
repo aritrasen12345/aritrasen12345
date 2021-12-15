@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aritra Sen</h1>
-<h3 align="center">A passionate full-stack && flutter developer</h3>
+<div>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?font=Garamond&color=%23FF176E&size=30&lines=I'm+a+Ethusiastic+Dev%F0%9F%94%B4;I'm+a+Full+Stack+Dev%F0%9F%92%BB;I'm+a+MERN+Stack+Dev%F0%9F%98%8E;Flutter+Dev%F0%9F%93%B1"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrasen12345&label=Profile%20views&color=0e56b4&style=flat-square" alt="aritrasen12345" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrasen12345" alt="aritrasen12345" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aritrasen12345](https://github.com/aritrasen12345)
 
