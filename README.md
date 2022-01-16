@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrasen12345" alt="aritrasen12345" /></a> </p>
 
-- 🌱 I’m currently learning **React and TypeScript**
+- 🌱 I’m currently learning **React, TypeScript and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aritrasen12345](https://github.com/aritrasen12345)
 
