@@ -57,7 +57,7 @@
 </a>
 <br/>
 
-  [![Aritra's github activity graph](https://activity-graph.herokuapp.com/graph?username=aritrasen12345&theme=xcode)](https://git.io/aritrasen12345)
+  [![Aritra's github activity graph](https://activity-graph.herokuapp.com/graph?username=aritrasen12345&theme=react-dark)](https://git.io/aritrasen12345)
 <div>
   <a href="https://github.com/aritrasen12345/ecommerce-webapp">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=ecommerce-webapp" />
