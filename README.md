@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aritras81007757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritras81007757" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aritra-sen-0b8464202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra-sen-0b8464202" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aritrasen12345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra-sen-0b8464202" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16939294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16939294" height="30" width="40" /></a>
 <a href="https://codesandbox.com/aritrasen12345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="aritrasen12345" height="30" width="40" /></a>
 <a href="https://kaggle.com/aritrasen12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aritrasen12345" height="30" width="40" /></a>
