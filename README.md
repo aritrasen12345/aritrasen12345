@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrasen12345" alt="aritrasen12345" /></a> </p>
 
-- 🌱 I’m currently learning **React, TypeScript and AWS**
+- 🌱 I’m currently learning **React, NestJS, TypeScript and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aritrasen12345](https://github.com/aritrasen12345)
 
@@ -59,6 +59,9 @@
 
   [![Aritra's github activity graph](https://activity-graph.herokuapp.com/graph?username=aritrasen12345&theme=react-dark)](https://git.io/aritrasen12345)
 <div>
+  <a href="https://github.com/aritrasen12345/github-user-analytic">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=github-user-analytics" />
+  </a>
   <a href="https://github.com/aritrasen12345/ecommerce-webapp">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=ecommerce-webapp" />
   </a>
