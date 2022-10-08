@@ -1,3 +1,4 @@
+[![@aritrasen12345's Holopin board](https://holopin.io/api/user/board?user=aritrasen12345)](https://holopin.io/@aritrasen12345)
 <h1 align="center">Hi 👋, I'm Aritra Sen</h1>
 <div>
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?font=Garamond&color=%23FF176E&size=30&lines=I'm+a+Ethusiastic+Dev%F0%9F%94%B4;I'm+a+Full+Stack+Dev%F0%9F%92%BB;I'm+a+MERN+Stack+Dev%F0%9F%98%8E"/>
@@ -56,7 +57,7 @@
 
 </a>
 <br/>
-
+  
   [![Aritra's github activity graph](https://activity-graph.herokuapp.com/graph?username=aritrasen12345&theme=react-dark)](https://git.io/aritrasen12345)
 <div>
   <a href="https://github.com/aritrasen12345/github-user-analytic">
