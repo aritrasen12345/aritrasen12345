@@ -1,4 +1,3 @@
-[![@aritrasen12345's Holopin board](https://holopin.io/api/user/board?user=aritrasen12345)](https://holopin.io/@aritrasen12345)
 <h1 align="center">Hi 👋, I'm Aritra Sen</h1>
 <div>
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?font=Garamond&color=%23FF176E&size=30&lines=I'm+a+Ethusiastic+Dev%F0%9F%94%B4;I'm+a+Full+Stack+Dev%F0%9F%92%BB;I'm+a+MERN+Stack+Dev%F0%9F%98%8E"/>
@@ -26,13 +25,16 @@
 <a href="https://stackoverflow.com/users/16939294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16939294" height="30" width="40" /></a>
 <a href="https://fb.com/aritra.sen.5811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aritra.sen.5811" height="30" width="40" /></a>
 <a href="https://instagram.com/aritrasen12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="truthful_aritra" height="30" width="40" /></a>
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
+ 
+</p>
+<a href="https://www.leetcode.com/aritrasen12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aritrasen12345" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aritrasen12345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aritrasen12345" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aritrasen12345/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aritrasen12345/profile" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aritrasen12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aritrasen12345" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aritrasen12345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aritrasen12345" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aritrasen12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aritrasen12345" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@aritrasen12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aritrasen12345" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aritrasen12345/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aritrasen12345/profile" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
