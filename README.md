@@ -44,9 +44,9 @@
 </div>
 <div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritrasen12345&show_icons=true&theme=dark&locale=en&layout=compact" alt="aritrasen12345" /></p>
+<p><img align="left" src="https://github-readme-stats-lime-pi.vercel.app/api/top-langs?username=aritrasen12345&show_icons=true&theme=dark&locale=en&layout=compact" alt="aritrasen12345" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritrasen12345&show_icons=true&theme=dark&locale=en" alt="aritrasen12345" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-lime-pi.vercel.app/api?username=aritrasen12345&show_icons=true&theme=dark&locale=en" alt="aritrasen12345" /></p>
 
 <!-- [![Aritra's GitHub stats](https://github-readme-stats-lime-pi.vercel.app/api?username=aritrasen12345&show_icons=true&theme=radical)
 ![Aritra's GitHub stats](https://github-readme-stats-lime-pi.vercel.app/api?username=aritrasen12345&show_icons=true&theme=radical)](url) -->
@@ -61,16 +61,16 @@
   [![Aritra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aritrasen12345&bg_color=d1e3ff&color=4c529e&line=4c529e&point=297a85&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
   <a href="https://github.com/aritrasen12345/github-user-analytic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=github-user-analytics" />
+    <img align="center" src="https://github-readme-stats-lime-pi.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=github-user-analytics" />
   </a>
   <a href="https://github.com/aritrasen12345/ecommerce-webapp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=ecommerce-webapp" />
+    <img align="center" src="https://github-readme-stats-lime-pi.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=ecommerce-webapp" />
   </a>
   <a href="https://github.com/aritrasen12345/personality_quiz_app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=personality_quiz_app" />
+    <img align="center" src="https://github-readme-stats-lime-pi.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=personality_quiz_app" />
   </a>
   <a href="https://github.com/aritrasen12345/aritrasen12345-portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=aritrasen12345-portfolio" />
+    <img align="center" src="https://github-readme-stats-lime-pi.vercel.app/api/pin/?username=aritrasen12345&theme=highcontrast&repo=aritrasen12345-portfolio" />
   </a>
 </div>
 
