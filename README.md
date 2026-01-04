@@ -15,11 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aritrasen12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritrasen12345" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aritrasen12345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritrasen12345" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16939294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16939294" height="30" width="40" /></a>
-<a href="https://fb.com/aritra.sen.5811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aritra.sen.5811" height="30" width="40" /></a>
-<a href="https://instagram.com/aritrasen12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="truthful_aritra" height="30" width="40" /></a>
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
  
